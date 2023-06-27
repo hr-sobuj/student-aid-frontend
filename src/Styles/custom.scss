@@ -1,0 +1,19 @@
+/* The following block can be included in a custom.scss */
+
+/* make the customizations */
+$theme-colors: (
+  // 'primary': #09761d,
+  'primary': #004216,
+  'secondary': #00d475,
+  'success': #08aa15,
+  'info': #0c504f,
+  'danger': rgb(199, 40, 12),
+  'warning': goldenrod,
+  'dark': #292b2c,
+  'light': #ede4e4,
+  'white': #fff,
+  'lightgray': #e6eaef
+);
+
+/* import bootstrap to set changes */
+@import '~bootstrap/scss/bootstrap';

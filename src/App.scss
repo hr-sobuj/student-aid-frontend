@@ -1,0 +1,43 @@
+@import './Styles/custom.scss';
+
+body {
+  background-color: rgb(236, 242, 233);
+  color: rgb(41, 40, 40);
+  font-family: 'Averta', 'Open Sans', 'Arial';
+  margin: 0;
+  padding: 0;
+}
+
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-clip: padding-box;
+  border-radius: 10px;
+  background-color: #bbc4cf;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  /* // margin: 5px; */
+  background-color: #e2e6f5;
+  border-radius: 15px;
+}
+
+#logout {
+  display: none;
+}
+
+.menu-anchor {
+  font-weight: bold;
+  color: rgb(39, 39, 39);
+}
+.menu-anchor:hover {
+  color: green !important;
+}
+.my-menu {
+  .active {
+    border-right: 4px solid green !important;
+  }
+}
