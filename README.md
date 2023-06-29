@@ -84,6 +84,15 @@ The following tools and technologies were used in the development of the Student
 - CSS
 - HTML
 
+## Testing
+
+To test the application, use the following credentials:
+
+- Email: user1@gmail.com
+- Password: 123
+
+Use the provided credentials to log in and test the various features and functionalities of the live chat application.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
