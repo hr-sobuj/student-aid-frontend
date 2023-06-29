@@ -1,6 +1,6 @@
 // export const BaseUrl = `https://student-aid-main.herokuapp.com`;
 // export const BaseUrl = `https://student-aid-main.vercel.app`;
-export const BaseUrl = `https://student-aid-api.vercel.app/`;
+export const BaseUrl = `https://student-aid-api.vercel.app`;
 // export const BaseUrl = `http://localhost:5000`;
 
 export const SignUpEnd = BaseUrl + '/auth/signup';
