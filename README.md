@@ -2,7 +2,7 @@
 
 Student Aid is a platform built using Node.js, Express.js, and React.js to assist financially disadvantaged students in fundraising for education. This repository contains the frontend codebase for the Student Aid application.
 
-![Student Aid Screenshot](screenshot.png)
+![Student Aid Screenshot](screenshots/screenshot.jpeg)
 
 ## Table of Contents
 
