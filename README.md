@@ -1,5 +1,3 @@
-Sure! Here's an updated version of the README.md file with a table of contents and a list of tools used:
-
 # Student Aid Frontend
 
 Student Aid is a platform built using Node.js, Express.js, and React.js to assist financially disadvantaged students in fundraising for education. This repository contains the frontend codebase for the Student Aid application.
